@@ -1,8 +1,8 @@
-let a = prompt('Enter first number');
-let b = prompt('Enter second number');
+// let a = prompt('Enter first number');
+// let b = prompt('Enter second number');
 
 if(a !== b){
-	alert('true');
+	alert('false');
 } else {
-	alert('false')
+	alert('true')
 }
